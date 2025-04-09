@@ -1,6 +1,6 @@
 {
-  "name": "vite-react-template",
-  "description": "A template for building a React application with Vite, Hono, and Cloudflare Workers",
+  "name": "toolbox",
+  "description": "A collection of tools",
   "version": "0.0.0",
   "cloudflare": {
     "label": "Vite React Template",
@@ -15,6 +15,7 @@
     "dash": true
   },
   "dependencies": {
+    "effect": "^3.14.6",
     "hono": "4.7.5",
     "react": "19.0.0",
     "react-dom": "19.0.0"
