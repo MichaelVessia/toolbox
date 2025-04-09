@@ -11,10 +11,5 @@
   "assets": {
     "not_found_handling": "single-page-application"
   },
-  "routes": [
-    {
-      "pattern": "toolbox.vessia.net/*",
-      "entrypoint": "./src/worker/index.ts"
-    }
-  ]
+  "routes": ["toolbox.vessia.net/*"]
 }
